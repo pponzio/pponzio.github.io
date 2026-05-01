@@ -76,8 +76,8 @@ kramdown:
 plugins: ["jekyll/scholar", "jekyll-sitemap"]
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Ponzio 
+  first_name: [Pablo, P.]
   style: citesty
   locale: en
   source: /assets/
