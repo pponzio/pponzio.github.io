@@ -45,6 +45,12 @@ permalink: /about/
 </div>
 
 
+<div class="section-card">
+  <h3>Teaching</h3>
+With **over 20 years of experience in higher education**, I have taught a wide range of courses at both the **undergraduate and graduate levels**. My career has been primarily based at the Computer Science Department, [**National University of Rio Cuarto (UNRC)**](https://dc.exa.unrc.edu.ar/), where I have been **responsible for courses such as: Object-Oriented Programming and Design, Algorithms and Data Structures, Software Testing, Software Engineering**, etc.
+</div>
+
+
 {% if site.data.projects %}
 <div class="section-card">
 <h3>Funded Projects</h3>
