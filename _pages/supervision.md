@@ -1,11 +1,11 @@
 ---
-title: "Teaching"
+title: "Supervision"
 layout: gridlay
 sitemap: false
-permalink: /teaching/
+permalink: /supervision/
 ---
 
-## Teaching
+## Supervision
 
 <div class="section-card">
 </div>

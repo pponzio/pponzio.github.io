@@ -9,31 +9,22 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Electrodynamics</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Path Integrals</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Superfluidity</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Parton Model</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Computing</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Nanotechnology</a>
+<a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Program Analysis</a>
+<a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Software Testing</a>
+<a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Lightweight Formal Methods</a>
+<a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Software Specification & Modelling</a>
+<a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Constraint Solving</a>
 </div>
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
 
-<div class="callout callout-success" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-award callout-icon"></i> Nobel Prize in Physics, 1965</div>
-<p>Awarded the Nobel Prize jointly with Julian Schwinger and Shin'ichiro Tomonaga for fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles.</p>
-</div>
+### About Me
 
-<div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" alt="Feynman diagrams" loading="lazy">
-<div class="banner-caption">Examples of Feynman diagrams. Feynman R., <em>The theory of positrons. Phys. Rev.</em> (1949)</div>
-</div>
+I am an Assistant Professor at the [National University of Rio Cuarto (UNRC)](https://dc.exa.unrc.edu.ar/), and an Associate Researcher at [CONICET](https://www.conicet.gov.ar/). I am based in Río Cuarto, Córdoba, Argentina. At UNRC, I am a member of the [Formal Methods & Software Engineering Group (MFIS)](https://mfis.dc.exa.unrc.edu.ar/) lead by [Nazareno Aguirre](https://nmaguirre.github.io/) (my former supervisor).
 
-### About me
+My research area is Software Engineering. My primary focus is on developing approaches and tools to help programmers improve the reliability of the software they produce. I am particularly interested in software analysis approaches with strong formal foundations, that can be automated via software tools, and require a relatively small effort from the user. 
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+My topics of interest include: Program Analysis, Software Testing, Lightweight Formal Methods, Software Specification and Modelling, Constraint Solving, among others.
+
+My work has been published in top-tier computer science venues such as ICSE, ASE, FSE, and OOPSLA. Over the years, I have taught numerous undergraduate and graduate courses on computer science, and supervised a few Ph.D. students and over ten undergraduate master theses.
+
+I hold a Ph.D. in Computer Science from the University of Buenos Aires (UBA), and a B.S. in Computer Science (Licenciatura) from the National University of Rio Cuarto (UNRC).

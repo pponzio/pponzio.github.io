@@ -5,7 +5,7 @@ sitemap: false
 permalink: /about/
 ---
 
-## About
+## About Me
 
 <div class="section-card">
 <div class="pi-card">
@@ -31,6 +31,31 @@ permalink: /about/
 </div>
 </div>
 
+
+<div class="section-card">
+  <h3>Current Positions</h3>
+  <ul class="professional-list">
+    <li>
+      <strong>Assistant Professor</strong>, <a href="https://dc.exa.unrc.edu.ar/">National University of Río Cuarto (UNRC)</a> (2024 – Present)
+    </li>
+    <li>
+      <strong>Associate Researcher</strong>, <a href="https://www.conicet.gov.ar/">CONICET</a> (2023 – Present)
+    </li>
+  </ul>
+</div>
+
+
+{% if site.data.projects %}
+<div class="section-card">
+<h3>Funded Projects</h3>
+<ul>
+{% for project in site.data.projects %}
+  <li><strong>{{ project.title }}</strong> ({{ project.years }}): {{ project.description }}</li>
+{% endfor %}
+</ul></div>
+{% endif %}
+
+
 {% if site.data.grants %}
 <div class="section-card">
 <h3>Grants</h3>
@@ -42,35 +67,5 @@ permalink: /about/
 </div>
 {% endif %}
 
-{% if site.data.awards %}
-<div class="section-card">
-<h3>Awards</h3>
-<ul>
-{% for award in site.data.awards %}
-<li>{{ award.name | replace: "-","&#8211;" }}</li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
 
-{% if site.data.people %}
-<div class="section-card">
-<h3>Students and Mentoring</h3>
-<ul>
-{% for student in site.data.people %}
-<li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
 
-{% if site.data.funders %}
-<div class="section-card">
-<h4>Sponsors</h4>
-<div class="sponsor-logos" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-6);">
-{% for funder in site.data.funders %}
-<a href="{{ funder.url }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" alt="Funder logo" style="max-height: 80px; max-width: 200px; border-radius: 0;" loading="lazy"></a>
-{% endfor %}
-</div>
-</div>
-{% endif %}
