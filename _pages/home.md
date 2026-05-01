@@ -9,11 +9,11 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Program Analysis</a>
+<a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Software Engineering</a>
+<a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Automated Analysis</a>
 <a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Software Testing</a>
 <a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Lightweight Formal Methods</a>
 <a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Software Specification & Modelling</a>
-<a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Constraint Solving</a>
 </div>
 
 
@@ -23,7 +23,7 @@ I am an Assistant Professor at the [National University of Rio Cuarto (UNRC)](ht
 
 My research area is Software Engineering. My primary focus is on developing approaches and tools to help programmers improve the reliability of the software they produce. I am particularly interested in software analysis approaches with strong formal foundations, that can be automated via software tools, and require a relatively small effort from the user. 
 
-My topics of interest include: Program Analysis, Software Testing, Lightweight Formal Methods, Software Specification and Modelling, Constraint Solving, among others.
+My topics of interest include: Automated Analysis, Software Testing, Lightweight Formal Methods, Software Specification and Modelling, among others.
 
 My work has been published in top-tier computer science venues such as ICSE, ASE, FSE, and OOPSLA. Over the years, I have taught numerous undergraduate and graduate courses on computer science, and supervised a few Ph.D. students and over ten undergraduate master theses.
 
