@@ -6,7 +6,7 @@ service_activities:
     web: "https://55jaiio.sadio.org.ar/asse-simposio-argentino-de-ingenieria-de-software"
 
   - role: "Program Committee Member"
-    description: "19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)"
+    description: "IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)"
     location: "Daejeon, South Korea"
     year: 2026
     web: "https://conf.researchr.org/home/icst-2026"
@@ -55,7 +55,7 @@ service_activities:
     year: 2023
 
   - role: "Artifact Evaluation Committee Member"
-    description: "ESEC/FSE 2022"
+    description: "Foundations of Software Engineering (FSE 2022)"
     location: "Singapore"
     year: 2022
     web: "https://2022.esec-fse.org/track/fse-2022-artifacts"
@@ -77,7 +77,7 @@ service_activities:
     web: "https://dc.exa.unrc.edu.ar/rio2020"
 
   - role: "Artifact Evaluation Committee Member"
-    description: "ISSTA 2020"
+    description: "International Symposium on Software Testing and Analysis (ISSTA 2020)"
     location: "Los Angeles, USA"
     year: 2020
     web: "https://conf.researchr.org/track/issta-2020/issta-2020-artifact-evaluation"
