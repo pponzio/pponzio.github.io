@@ -1,0 +1,44 @@
+- name: "Valentín Buttignol"
+  institution: "National University of Rio Cuarto"
+  status: "Completed"
+  completion_date: 2025
+- name: "Lucio Mansilla"
+  institution: "National University of Rio Cuarto"
+  status: "Completed"
+  completion_date: 2025
+- name: "Agustín Borda"
+  institution: "National University of Rio Cuarto"
+  status: "Completed"
+  completion_date: 2022
+- name: "Juan Manuel Copia"
+  institution: "National University of Rio Cuarto"
+  status: "Completed"
+  completion_date: 2020
+- name: "Leandro Buttignol"
+  institution: "National University of Rio Cuarto"
+  status: "Completed"
+  completion_date: 2019
+- name: "Adrián Galfioni"
+  institution: "National University of Rio Cuarto"
+  status: "Completed"
+  completion_date: 2019
+- name: "Camila Calcagno"
+  institution: "National University of Rio Cuarto"
+  status: "Completed"
+  completion_date: 2018
+- name: "Renzo Bianchini, Franco Pellegrini, Lucía Bressan"
+  institution: "National University of Rio Cuarto"
+  status: "Completed"
+  completion_date: 2017
+- name: "Fernando Raverta"
+  institution: "National University of Rio Cuarto"
+  status: "Completed"
+  completion_date: 2016
+- name: "César Cornejo, Mariano Politano"
+  institution: "National University of Rio Cuarto"
+  status: "Completed"
+  completion_date: 2016
+- name: "Ariel Godio"
+  institution: "National University of Rio Cuarto"
+  status: "Completed"
+  completion_date: 2015

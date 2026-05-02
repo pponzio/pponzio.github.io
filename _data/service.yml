@@ -1,0 +1,91 @@
+service_activities:
+  - role: "Program Chair"
+    description: "Argentine Symposium on Software Engineering (ASSE), JAIIO"
+    location: "La Plata, Argentina"
+    year: 2026
+    web: "https://55jaiio.sadio.org.ar/asse-simposio-argentino-de-ingenieria-de-software"
+
+  - role: "Program Committee Member"
+    description: "19th IEEE International Conference on Software Testing, Verification and Validation (ICST 2026)"
+    location: "Daejeon, South Korea"
+    year: 2026
+    web: "https://conf.researchr.org/home/icst-2026"
+
+  - role: "Project Evaluator"
+    description: "Evaluator of a PIP 2025-2027 Research Project, CONICET"
+    location: Argentina
+    year: 2026
+
+  - role: "Program Chair"
+    description: "Argentine Symposium on Software Engineering (ASSE), JAIIO"
+    location: "Buenos Aires, Argentina"
+    year: 2025
+    web: "https://54jaiio.sadio.org.ar/simposios/ASSE"
+
+  - role: "External Expert"
+    description: "Evaluator of researcher promotion in Scientific Research Career 2024, CONICET"
+    location: Argentina
+    year: 2025
+
+  - role: "Titular Elected Member"
+    description: "Departmental Council at UNRC"
+    location: "Río Cuarto, Argentina"
+    year: "2022, 2023, 2024, 2025"
+
+  - role: "Invited Reviewer"
+    description: "International Symposium on Software Testing and Analysis (ISSTA 2024)"
+    location: "Vienna, Austria"
+    year: 2024
+    web: "https://conf.researchr.org/home/issta-2024"
+
+  - role: "Invited Reviewer"
+    description: "IEEE International Conference on Software Testing, Verification and Validation (ICST 2024)"
+    location: "Toronto, Canada"
+    year: 2024
+    web: "https://conf.researchr.org/home/icst-2024"
+
+  - role: "Reviewer"
+    description: "IEEE Transactions on Software Engineering (TSE 2024)"
+    year: 2024
+    web: "https://www.computer.org/csdl/journal/ts"
+
+  - role: "Project Evaluator"
+    description: "Evaluator of Research Projects PICT 2022, FONCyT"
+    location: Argentina
+    year: 2023
+
+  - role: "Artifact Evaluation Committee Member"
+    description: "ESEC/FSE 2022"
+    location: "Singapore"
+    year: 2022
+    web: "https://2022.esec-fse.org/track/fse-2022-artifacts"
+
+  - role: "Committee Member"
+    description: "Evaluation Committee for PICT 2021 Projects, FONCyT"
+    location: Argentina
+    year: 2022
+
+  - role: "Project Evaluator"
+    description: "Evaluator of Research Projects PICT 2021, FONCyT"
+    location: Argentina
+    year: 2022
+
+  - role: "Executive Director"
+    description: "RIO 2020 Summer School in Computer Science"
+    location: "Río Cuarto, Argentina"
+    year: 2020
+    web: "https://dc.exa.unrc.edu.ar/rio2020"
+
+  - role: "Artifact Evaluation Committee Member"
+    description: "ISSTA 2020"
+    location: "Los Angeles, USA"
+    year: 2020
+    web: "https://conf.researchr.org/track/issta-2020/issta-2020-artifact-evaluation"
+
+  - role: "Organizer"
+    description: "7th Argentine Workshop on Foundations for Automated Software Analysis and Construction (FACAS 2019)"
+    location: "La Falda, Argentina"
+    year: 2019
+    web: "https://sites.google.com/dc.exa.unrc.edu.ar/facas2026/"
+
+

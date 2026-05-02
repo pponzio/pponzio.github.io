@@ -27,4 +27,4 @@ My topics of interest include: **Automated Analysis**, **Software Testing**, **L
 
 My work has been published in **top-tier computer science venues** such as **ICSE, ASE, FSE, and OOPSLA**. With over **20 years of experience in higher education**, I have taught **numerous undergraduate and graduate courses** on computer science, supervised several **Ph.D. students**, and over ten **undergraduate master theses**.
 
-I hold a **Ph.D. in Computer Science** from the **University of Buenos Aires (UBA)**, and a **B.S. in Computer Science (Licenciatura)** from the **National University of Rio Cuarto (UNRC)**.
+I hold a **Ph.D. in Computer Science** from the [**University of Buenos Aires (UBA)**](https://dc.uba.ar/), and a **B.S. in Computer Science (Licenciatura)** from the [**National University of Rio Cuarto (UNRC)**](https://dc.exa.unrc.edu.ar/).
